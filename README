@@ -1,0 +1,15 @@
+These are two projects I did during my Master's Education.
+
+***The first ECAT, which stands for Enhancing Communication Across TWC.*** 
+
+In this project I created a system where department heads and any specified individuals could put announcements for upcoming changes. These announcements would create an RSS feed and push this information out to any subscribers. 
+
+This project integrates RSS, XML, HTML, CSS, PHP and Javascript to create a dynamic real time application.
+
+
+***The second directory HERALD is my final project for my Master's Degree.***
+
+It is a system similar to Facebook but also a bit like Twitter that allows the college staff, students and community to post events and notifications to the community. I labeled it the 
+St. Rose Herald: College of Saint Rose Community Portal and added features like sms reminders and email capabilities. There is also a real time messaging system that pushes and pulls messages in real time to the end users.
+
+This project uses PHP, HTML, CSS and Javascript.
